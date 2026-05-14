@@ -1,6 +1,5 @@
 import random
 
-# Symbols used as card faces
 SYMBOLS = [
     "★", "♦", "♣", "♠", "♥", "●", "▲", "■",
     "◆", "○", "△", "□", "☀", "☁", "☂", "☃",
